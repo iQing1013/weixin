@@ -9,9 +9,6 @@
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["ocWR76OPcRLcSju6MGBroeaaBdXQ","ocWR76AG6fltLMnbKoQjibBFFm58"],
 #生日
-"province": "河南",
-# 所在城市
-"city": "周口",
 "birthday1":"2001-10-13",
 #纪念日
 "love_date": "2022-07-02",
